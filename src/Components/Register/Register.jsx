@@ -127,7 +127,7 @@ seterror('')
         <div className="form-control mt-6">
           <button type="submit" className="btn btn-primary">Register</button>
         </div>
-        <p>Already Regiteres. Please Go To <Link className="btn btn-accent" to='/login' >LOG IN</Link>  </p>
+        <p>Already Regitered. Please Go To <Link className="btn btn-accent" to='/login' >LOG IN</Link>  </p>
 
       </form>
     </div>
